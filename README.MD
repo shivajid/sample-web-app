@@ -6,10 +6,10 @@
 - git add .
 - git commit -m "message"
 - git log --oneline
-- git checkout *\<branchname\> \<filename>\*
-- git reset HEAD <filename> 
-- git checkout -- <filename>
-- git remote add origin <ssh orgiin repo>
+- git checkout \<branchname\> \<filename\>
+- git reset HEAD \<filename\> 
+- git checkout -- \<filename\>
+- git remote add origin \<ssh orgiin repo\>
 - git push -u origin master
 
 ### SSH Setup
